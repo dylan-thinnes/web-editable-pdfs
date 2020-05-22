@@ -1,0 +1,3 @@
+[submodule "pdfjs-dist"]
+	path = static/pdfjs-dist
+	url = https://github.com/mozilla/pdfjs-dist
