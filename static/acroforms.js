@@ -31,7 +31,7 @@ const makeuid = (len, digits) => {
 var { PDFHexString, PDFName, PDFRef, PDFRawStream } = PDFLib;
 
 pdfjsLib.GlobalWorkerOptions.workerSrc =
-  "/pdf.js/node_modules/pdfjs-dist/build/pdf.worker.js";
+  "/pdfjs-dist/build/pdf.worker.js";
 
 //var DEFAULT_URL = "../../test/pdfs/f1040.pdf";
 //var DEFAULT_URL = "../../test/pdfs/dnd.pdf";
